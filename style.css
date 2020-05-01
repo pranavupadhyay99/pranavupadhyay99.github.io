@@ -1,0 +1,33 @@
+body, html {
+	width: 100%;
+	height: 100%;
+  background: url(fac510db7a07e258fa398b1d166b0599.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	color: #ffffff;
+}
+.buffer{
+	height: 10rem;
+}
+hr{
+	background-color: #ee4b08;
+	border-width: 3px; 
+}
+.btn{
+	font-weight: 700px;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+.btn-primary{
+	background-color: #ee4b08;
+	border-color: #ee4b08;
+}
+.btn-primary:hover{
+	background-color: #ee4b08;
+	border-color: #ee4b08;
+	border-width: 4px;
+}
